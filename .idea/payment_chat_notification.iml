@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../payment_chat_notification">
+      <sourceFolder url="file://$MODULE_DIR$/../payment_chat_notification/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/../payment_chat_notification/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/../payment_chat_notification/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/../payment_chat_notification/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../payment_chat_notification/tests" isTestSource="true" packagePrefix="Tests\" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/http-client-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/webmozart/assert" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/laravel/sail" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/laravel/ui" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/league/mime-type-detection" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/fruitcake/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/fakerphp/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/cartalyst/stripe-laravel" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/cartalyst/stripe" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/paragonie/sodium_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/../payment_chat_notification/vendor/pusher/pusher-php-server" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
